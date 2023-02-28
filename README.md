@@ -6,7 +6,7 @@ The page is a simple HTML list with its elements populated from an embedded sqli
 
 
 See it in action here:
-https://github.com/nbr0wn/sqlite-wasm-template
+https://nbr0wn.github.io/sqlite-wasm-template
 
 
 Sqlite-wasm can be found at:
