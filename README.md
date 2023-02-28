@@ -9,6 +9,9 @@ See it in action here:
 https://github.com/nbr0wn/sqlite-wasm-template
 
 
-Periodic table data is thanks to:
+Sqlite-wasm can be found at:
+https://sqlite.org/wasm/doc/trunk/index.md
 
+
+Periodic table data is thanks to:
 https://gist.github.com/GoodmanSciences
